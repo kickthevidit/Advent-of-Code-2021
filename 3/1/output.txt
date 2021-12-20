@@ -1,0 +1,3 @@
+gamma: 419
+epsilon: 3676
+power consumption: 1540244
